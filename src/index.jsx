@@ -6,6 +6,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(<App />);
 
 // If you're running this locally in VS Code use the commands:
+// on render use "npm ci --include=dev && npx vite build" on build command
 // npm install //npm i react@18 react-dom@18
 // to install the node modules and
 // npm run dev
